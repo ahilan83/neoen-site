@@ -1,4 +1,5 @@
 models/
 data/
-src/Bin old
-src/Backup
+src/Bin old/
+src/Backup/
+.ipynb_checkpoints/
